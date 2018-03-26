@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FE6C4B26206925C800960DDF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B25206925C800960DDF /* AppDelegate.m */; };
-		FE6C4B29206925C800960DDF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B28206925C800960DDF /* ViewController.m */; };
-		FE6C4B2C206925C800960DDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4B2A206925C800960DDF /* Main.storyboard */; };
-		FE6C4B2E206925C800960DDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4B2D206925C800960DDF /* Assets.xcassets */; };
-		FE6C4B31206925C800960DDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4B2F206925C800960DDF /* LaunchScreen.storyboard */; };
-		FE6C4B34206925C800960DDF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B33206925C800960DDF /* main.m */; };
-		FE6C4B88206926F000960DDF /* FrameBuff.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B87206926F000960DDF /* FrameBuff.m */; };
+		FE6C4B9720692C8500960DDF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B9620692C8500960DDF /* AppDelegate.m */; };
+		FE6C4B9A20692C8500960DDF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4B9920692C8500960DDF /* ViewController.m */; };
+		FE6C4B9D20692C8500960DDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4B9B20692C8500960DDF /* Main.storyboard */; };
+		FE6C4B9F20692C8500960DDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4B9E20692C8500960DDF /* Assets.xcassets */; };
+		FE6C4BA220692C8500960DDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6C4BA020692C8500960DDF /* LaunchScreen.storyboard */; };
+		FE6C4BA520692C8500960DDF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4BA420692C8500960DDF /* main.m */; };
+		FE6C4BAE20692C9200960DDF /* FrameBuff.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6C4BAC20692C9200960DDF /* FrameBuff.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FE6C4B21206925C800960DDF /* FrameBuff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FrameBuff.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE6C4B24206925C800960DDF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FE6C4B25206925C800960DDF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FE6C4B27206925C800960DDF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FE6C4B28206925C800960DDF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		FE6C4B2B206925C800960DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FE6C4B2D206925C800960DDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FE6C4B30206925C800960DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FE6C4B32206925C800960DDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FE6C4B33206925C800960DDF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FE6C4B86206926F000960DDF /* FrameBuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FrameBuff.h; sourceTree = "<group>"; };
-		FE6C4B87206926F000960DDF /* FrameBuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrameBuff.m; sourceTree = "<group>"; };
+		FE6C4B9220692C8500960DDF /* FrameBuffDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FrameBuffDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE6C4B9520692C8500960DDF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FE6C4B9620692C8500960DDF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FE6C4B9820692C8500960DDF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FE6C4B9920692C8500960DDF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FE6C4B9C20692C8500960DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FE6C4B9E20692C8500960DDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FE6C4BA120692C8500960DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FE6C4BA320692C8500960DDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE6C4BA420692C8500960DDF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FE6C4BAC20692C9200960DDF /* FrameBuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrameBuff.m; sourceTree = "<group>"; };
+		FE6C4BAD20692C9200960DDF /* FrameBuff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FrameBuff.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FE6C4B1E206925C800960DDF /* Frameworks */ = {
+		FE6C4B8F20692C8500960DDF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,84 +42,85 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FE6C4B18206925C800960DDF = {
+		FE6C4B8920692C8500960DDF = {
 			isa = PBXGroup;
 			children = (
-				FE6C4B23206925C800960DDF /* FrameBuff */,
-				FE6C4B22206925C800960DDF /* Products */,
+				FE6C4B9420692C8500960DDF /* FrameBuffDemo */,
+				FE6C4B9320692C8500960DDF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FE6C4B22206925C800960DDF /* Products */ = {
+		FE6C4B9320692C8500960DDF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FE6C4B21206925C800960DDF /* FrameBuff.app */,
+				FE6C4B9220692C8500960DDF /* FrameBuffDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FE6C4B23206925C800960DDF /* FrameBuff */ = {
+		FE6C4B9420692C8500960DDF /* FrameBuffDemo */ = {
 			isa = PBXGroup;
 			children = (
-				FE6C4B85206926BD00960DDF /* FrameBuff */,
-				FE6C4B24206925C800960DDF /* AppDelegate.h */,
-				FE6C4B25206925C800960DDF /* AppDelegate.m */,
-				FE6C4B27206925C800960DDF /* ViewController.h */,
-				FE6C4B28206925C800960DDF /* ViewController.m */,
-				FE6C4B2A206925C800960DDF /* Main.storyboard */,
-				FE6C4B2D206925C800960DDF /* Assets.xcassets */,
-				FE6C4B2F206925C800960DDF /* LaunchScreen.storyboard */,
-				FE6C4B32206925C800960DDF /* Info.plist */,
-				FE6C4B33206925C800960DDF /* main.m */,
+				FE6C4BAB20692C9200960DDF /* FrameBuff */,
+				FE6C4B9520692C8500960DDF /* AppDelegate.h */,
+				FE6C4B9620692C8500960DDF /* AppDelegate.m */,
+				FE6C4B9820692C8500960DDF /* ViewController.h */,
+				FE6C4B9920692C8500960DDF /* ViewController.m */,
+				FE6C4B9B20692C8500960DDF /* Main.storyboard */,
+				FE6C4B9E20692C8500960DDF /* Assets.xcassets */,
+				FE6C4BA020692C8500960DDF /* LaunchScreen.storyboard */,
+				FE6C4BA320692C8500960DDF /* Info.plist */,
+				FE6C4BA420692C8500960DDF /* main.m */,
 			);
-			path = FrameBuff;
+			path = FrameBuffDemo;
 			sourceTree = "<group>";
 		};
-		FE6C4B85206926BD00960DDF /* FrameBuff */ = {
+		FE6C4BAB20692C9200960DDF /* FrameBuff */ = {
 			isa = PBXGroup;
 			children = (
-				FE6C4B86206926F000960DDF /* FrameBuff.h */,
-				FE6C4B87206926F000960DDF /* FrameBuff.m */,
+				FE6C4BAC20692C9200960DDF /* FrameBuff.m */,
+				FE6C4BAD20692C9200960DDF /* FrameBuff.h */,
 			);
-			path = FrameBuff;
+			name = FrameBuff;
+			path = ../../FrameBuff;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FE6C4B20206925C800960DDF /* FrameBuff */ = {
+		FE6C4B9120692C8500960DDF /* FrameBuffDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FE6C4B37206925C800960DDF /* Build configuration list for PBXNativeTarget "FrameBuff" */;
+			buildConfigurationList = FE6C4BA820692C8500960DDF /* Build configuration list for PBXNativeTarget "FrameBuffDemo" */;
 			buildPhases = (
-				FE6C4B1D206925C800960DDF /* Sources */,
-				FE6C4B1E206925C800960DDF /* Frameworks */,
-				FE6C4B1F206925C800960DDF /* Resources */,
+				FE6C4B8E20692C8500960DDF /* Sources */,
+				FE6C4B8F20692C8500960DDF /* Frameworks */,
+				FE6C4B9020692C8500960DDF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = FrameBuff;
-			productName = FrameBuff;
-			productReference = FE6C4B21206925C800960DDF /* FrameBuff.app */;
+			name = FrameBuffDemo;
+			productName = FrameBuffDemo;
+			productReference = FE6C4B9220692C8500960DDF /* FrameBuffDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FE6C4B19206925C800960DDF /* Project object */ = {
+		FE6C4B8A20692C8500960DDF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = BoWang;
 				TargetAttributes = {
-					FE6C4B20206925C800960DDF = {
+					FE6C4B9120692C8500960DDF = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = FE6C4B1C206925C800960DDF /* Build configuration list for PBXProject "FrameBuff" */;
+			buildConfigurationList = FE6C4B8D20692C8500960DDF /* Build configuration list for PBXProject "FrameBuffDemo" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,56 +128,56 @@
 				en,
 				Base,
 			);
-			mainGroup = FE6C4B18206925C800960DDF;
-			productRefGroup = FE6C4B22206925C800960DDF /* Products */;
+			mainGroup = FE6C4B8920692C8500960DDF;
+			productRefGroup = FE6C4B9320692C8500960DDF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FE6C4B20206925C800960DDF /* FrameBuff */,
+				FE6C4B9120692C8500960DDF /* FrameBuffDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FE6C4B1F206925C800960DDF /* Resources */ = {
+		FE6C4B9020692C8500960DDF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE6C4B31206925C800960DDF /* LaunchScreen.storyboard in Resources */,
-				FE6C4B2E206925C800960DDF /* Assets.xcassets in Resources */,
-				FE6C4B2C206925C800960DDF /* Main.storyboard in Resources */,
+				FE6C4BA220692C8500960DDF /* LaunchScreen.storyboard in Resources */,
+				FE6C4B9F20692C8500960DDF /* Assets.xcassets in Resources */,
+				FE6C4B9D20692C8500960DDF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FE6C4B1D206925C800960DDF /* Sources */ = {
+		FE6C4B8E20692C8500960DDF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE6C4B88206926F000960DDF /* FrameBuff.m in Sources */,
-				FE6C4B29206925C800960DDF /* ViewController.m in Sources */,
-				FE6C4B34206925C800960DDF /* main.m in Sources */,
-				FE6C4B26206925C800960DDF /* AppDelegate.m in Sources */,
+				FE6C4BAE20692C9200960DDF /* FrameBuff.m in Sources */,
+				FE6C4B9A20692C8500960DDF /* ViewController.m in Sources */,
+				FE6C4BA520692C8500960DDF /* main.m in Sources */,
+				FE6C4B9720692C8500960DDF /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FE6C4B2A206925C800960DDF /* Main.storyboard */ = {
+		FE6C4B9B20692C8500960DDF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FE6C4B2B206925C800960DDF /* Base */,
+				FE6C4B9C20692C8500960DDF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FE6C4B2F206925C800960DDF /* LaunchScreen.storyboard */ = {
+		FE6C4BA020692C8500960DDF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FE6C4B30206925C800960DDF /* Base */,
+				FE6C4BA120692C8500960DDF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -184,7 +185,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FE6C4B35206925C800960DDF /* Debug */ = {
+		FE6C4BA620692C8500960DDF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -239,7 +240,7 @@
 			};
 			name = Debug;
 		};
-		FE6C4B36206925C800960DDF /* Release */ = {
+		FE6C4BA720692C8500960DDF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -288,29 +289,29 @@
 			};
 			name = Release;
 		};
-		FE6C4B38206925C800960DDF /* Debug */ = {
+		FE6C4BA920692C8500960DDF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4C484JNJ85;
-				INFOPLIST_FILE = FrameBuff/Info.plist;
+				INFOPLIST_FILE = FrameBuffDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.r4l.FrameBuff;
+				PRODUCT_BUNDLE_IDENTIFIER = xyz.r4l.FrameBuffDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		FE6C4B39206925C800960DDF /* Release */ = {
+		FE6C4BAA20692C8500960DDF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4C484JNJ85;
-				INFOPLIST_FILE = FrameBuff/Info.plist;
+				INFOPLIST_FILE = FrameBuffDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.r4l.FrameBuff;
+				PRODUCT_BUNDLE_IDENTIFIER = xyz.r4l.FrameBuffDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FE6C4B1C206925C800960DDF /* Build configuration list for PBXProject "FrameBuff" */ = {
+		FE6C4B8D20692C8500960DDF /* Build configuration list for PBXProject "FrameBuffDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FE6C4B35206925C800960DDF /* Debug */,
-				FE6C4B36206925C800960DDF /* Release */,
+				FE6C4BA620692C8500960DDF /* Debug */,
+				FE6C4BA720692C8500960DDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FE6C4B37206925C800960DDF /* Build configuration list for PBXNativeTarget "FrameBuff" */ = {
+		FE6C4BA820692C8500960DDF /* Build configuration list for PBXNativeTarget "FrameBuffDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FE6C4B38206925C800960DDF /* Debug */,
-				FE6C4B39206925C800960DDF /* Release */,
+				FE6C4BA920692C8500960DDF /* Debug */,
+				FE6C4BAA20692C8500960DDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FE6C4B19206925C800960DDF /* Project object */;
+	rootObject = FE6C4B8A20692C8500960DDF /* Project object */;
 }
