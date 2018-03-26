@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  FrameBuff
+//  FrameBuffDemo
 //
 //  Created by BoWang on 2018/3/26.
 //  Copyright © 2018年 BoWang. All rights reserved.
